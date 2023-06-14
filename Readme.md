@@ -4,7 +4,7 @@ The Todo App is a simple web application that helps you keep track of your tasks
 
 ## Screenshot
 
-[](./Screenshot.png)
+[Screenshot](./Screenshot.png)
 
 ## Features
 
